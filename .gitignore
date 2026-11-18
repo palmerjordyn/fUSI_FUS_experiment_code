@@ -1,0 +1,40 @@
+
+# MATLAB generated files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB cache and preferences
+/matlab.prj/
+*.prj.local
+slprj/
+codegen/
+
+# MATLAB compiled files
+*.mex*
+*.p
+*.mat~
+*.mdl.r*
+*.slxc
+
+# Figures and temporary outputs
+*.fig
+*.log
+*.tmp
+
+# Editor and operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Data files (uncomment if you don't want raw data in Git)
+# *.bin
+# *.dat
+# *.mat
+
+# Experiment outputs (adjust folder names as needed)
+# data/
+# outputs/
+# results/
